@@ -1,0 +1,32 @@
+.fastest {
+    margin-bottom: 284px;
+    .all_way{
+    display: flex;
+    .way{
+        padding-right: 138px;
+    h1{
+        font-size: 45px;
+        color: #252B42;
+    }
+    p{
+        color: #374754;
+        font-size: 28px;
+        padding-bottom: 70px;
+    }
+  a {
+    background-color: #2091f9;
+    border-radius: 35px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 62px;
+    padding-right: 62px;
+  }
+  a:hover{
+      background-color: gray;
+  }
+}
+    }
+}

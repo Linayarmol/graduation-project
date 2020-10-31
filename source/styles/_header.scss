@@ -1,0 +1,64 @@
+.header {
+  height: 1042px;
+  background-repeat: no-repeat;
+  background-position: top center;
+  
+  .navbar {
+    display: flex;
+    list-style: none;
+    padding-top: 50px;
+    li {
+      color: white;
+      padding-right: 41px;
+      size: 15px;
+    }
+  }
+  .top {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 53px;
+    .figma {
+      padding-top: 40px;
+    }
+    .top.openMenuBtn {
+      display: none;
+    }
+  }
+  .icon {
+    display: flex;
+    height: 40px;
+    padding-top: 50px;
+    img {
+      padding-right: 33px;
+    }
+  }
+  h1 {
+    color: white;
+    font-size: 74px;
+    text-align: center;
+    padding-top: 159px;
+    margin-bottom: 0;
+  }
+  p {
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    padding-bottom: 90px;
+  }
+  a {
+    background-color: #2091f9;
+    border-radius: 35px;
+    text-decoration: none;
+    position: relative;
+    left: 40%;
+    font-size: 20px;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 62px;
+    padding-right: 62px;
+  }
+  a:hover {
+    background-color: gray;
+  }
+}

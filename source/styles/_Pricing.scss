@@ -1,0 +1,218 @@
+.Pricing {
+  margin-top: 116px;
+  background-color: #252b42;
+  text-align: center;
+
+  h1 {
+    font-size: 48px;
+    color: white;
+    padding-top: 110px;
+  }
+  p {
+    font-size: 28px;
+    color: white;
+  }
+  .cost {
+    padding-bottom: 100px;
+    display: flex;
+
+    justify-content: center;
+
+    .unit1 {
+      text-align: center;
+      background-color: white;
+      width: 20vw;
+      height: 500px;
+      border-radius: 10px;
+      margin-top: 30px;
+
+      .p_f {
+        padding-bottom: 40px;
+      }
+      h1 {
+        font-size: 20px;
+        color: #252b42;
+        padding-top: 43px;
+      }
+      p {
+        font-size: 16px;
+        color: #374754;
+      }
+      .buttom {
+        margin-top: 60px;
+      }
+      .zero {
+        display: flex;
+        text-align: center;
+        padding-left: 90px;
+        h2 {
+          font-size: 74px;
+          color: #252b42;
+          margin: 0;
+        }
+        h3 {
+          margin: 0;
+        }
+        p {
+          margin: 0;
+        }
+        .dollar {
+          padding-top: 20px;
+          text-align: start;
+          padding-right: 10px;
+          h3 {
+            font-size: 20px;
+            color: #252b42;
+          }
+        }
+      }
+      a {
+        background-color: #2091f9;
+        border-radius: 35px;
+        text-decoration: none;
+        position: relative;
+
+        font-size: 20px;
+        color: white;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 75px;
+        padding-right: 75px;
+      }
+      a:hover {
+        background-color: gray;
+      }
+    }
+    .unit2 {
+      text-align: center;
+      background-color: #2091f9;
+      width: 20vw;
+      height: 550px;
+      border-radius: 10px;
+      margin-right: 50px;
+      margin-left: 50px;
+      a {
+        background-color: white;
+        border-radius: 35px;
+        text-decoration: none;
+        position: relative;
+
+        font-size: 20px;
+        color: #2091f9;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 75px;
+        padding-right: 75px;
+      }
+      a:hover {
+        background-color: #252b42;
+        color: white;
+      }
+
+      .p_f {
+        padding-bottom: 40px;
+      }
+      h1 {
+        font-size: 20px;
+        color: white;
+        padding-top: 70px;
+      }
+      p {
+        font-size: 16px;
+        color: white;
+      }
+      .buttom {
+        margin-top: 60px;
+      }
+      .zero {
+        display: flex;
+        text-align: center;
+        padding-left: 80px;
+        h2 {
+          font-size: 74px;
+          color: white;
+          margin: 0;
+        }
+        h3 {
+          margin: 0;
+        }
+        p {
+          margin: 0;
+        }
+        .dollar {
+          padding-top: 20px;
+          text-align: start;
+          padding-right: 10px;
+          h3 {
+            font-size: 20px;
+            color: white;
+          }
+        }
+      }
+    }
+    .unit3 {
+      text-align: center;
+      background-color: white;
+      width: 20vw;
+      height: 500px;
+      border-radius: 10px;
+      margin-top: 30px;
+      .p_f {
+        padding-bottom: 40px;
+      }
+      h1 {
+        font-size: 20px;
+        color: #252b42;
+        padding-top: 43px;
+      }
+      p {
+        font-size: 16px;
+        color: #374754;
+      }
+      .buttom {
+        margin-top: 60px;
+      }
+      .zero {
+        display: flex;
+        text-align: center;
+        padding-left: 90px;
+        h2 {
+          font-size: 74px;
+          color: #252b42;
+          margin: 0;
+        }
+        h3 {
+          margin: 0;
+        }
+        p {
+          margin: 0;
+        }
+        .dollar {
+          padding-top: 20px;
+          text-align: start;
+          padding-right: 10px;
+          h3 {
+            font-size: 20px;
+            color: #252b42;
+          }
+        }
+      }
+      a {
+        background-color: #2091f9;
+        border-radius: 35px;
+        text-decoration: none;
+        position: relative;
+
+        font-size: 20px;
+        color: white;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 75px;
+        padding-right: 75px;
+      }
+      a:hover {
+        background-color: gray;
+      }
+    }
+  }
+}

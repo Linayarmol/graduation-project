@@ -1,0 +1,48 @@
+.Testimonials {
+  text-align: center;
+  padding-top: 150px;
+  margin-top: 0;
+  display: block;
+  h2{
+      color:#252B42;
+      font-size: 48px;
+      padding-bottom: 90px;
+  }
+  p{
+      font-size: 28px;
+      color: #374754;
+      padding-top: 50px;
+      padding-bottom: 62px;
+  }
+  a {
+    background-color: #2091f9;
+    border-radius: 35px;
+    text-decoration: none;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 47px;
+    padding-right: 47px;
+    padding-top: 82,5px;
+   
+  }
+  a:hover{
+    background-color: gray;
+  }
+  .ellipse{
+      display: flex;
+      text-align: start;
+      margin-left: 470px;
+      margin-bottom: 100px;
+      p{
+          font-size:16px;
+          color: #374754;
+          padding: 0;
+          padding-left: 13px;
+      }
+   
+      
+  }
+}

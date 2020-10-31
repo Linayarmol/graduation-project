@@ -1,0 +1,648 @@
+@media (max-width: 1200px) {
+  .play2 {
+    margin-left: 100px;
+  }
+  .Pricing .cost .unit3 a {
+    padding: 18px 50px;
+  }
+  .Pricing .cost .unit2 a {
+    padding: 18px 50px;
+  }
+  .Pricing .cost .unit1 a {
+    padding: 18px 50px;
+  }
+  .Testimonials .ellipse {
+    margin-left: 420px;
+  }
+}
+@media (max-width: 1500px) {
+  .openMenuBtn {
+    display: none;
+  }
+}
+@media (max-width: 992px) {
+  .Testimonials .ellipse {
+    margin-left: 40%;
+  }
+  .fastest .all_way .way a {
+    padding: 16px 50px;
+  }
+  .fastest .all_way .way {
+    padding-right: 0;
+  }
+  .macbook {
+    width: 50vw;
+  }
+  .Lightning .latter img {
+    width: 80%;
+  }
+
+  .Pricing .cost .unit2 {
+    width: auto;
+  }
+  .Pricing .cost .unit3 {
+    width: auto;
+  }
+  .Pricing .cost .unit1 {
+    width: auto;
+  }
+  .Contact .blank .Your .message {
+    margin-top: 0;
+  }
+  .Contact .geo img {
+    padding-top: 30px;
+  }
+  .Contact .geo {
+    margin-top: 50px;
+  }
+  .Pages {
+    padding-left: 30px;
+  }
+  .icons {
+    padding-right: 30px;
+  }
+  .features .play2 .play {
+    top: calc(50% - 180px);
+  }
+}
+@media (max-width: 864px) {
+  .header .icon img {
+    padding-right: 0;
+  }
+  .header .navbar li {
+    padding-right: 20px;
+  }
+  .macbook {
+    width: 40vw;
+    height: 30vh;
+    padding-top: 50px;
+  }
+  .Contact .blank .Your {
+    margin-bottom: 30px;
+  }
+  .Contact .blank {
+    height: 620px;
+  }
+}
+@media (max-width: 820px) {
+  .Pricing .cost {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    margin-left: 30%;
+  }
+  .Pricing .cost .unit1,
+  .Pricing .cost .unit2,
+  .Pricing .cost .unit3 {
+    width: 40vw;
+  }
+
+  .Pricing .cost .unit2 {
+    margin-left: 0;
+    margin-top: 20px;
+  }
+  .flex {
+    flex-direction: column-reverse;
+  }
+  .namber {
+    margin-right: 25%;
+    margin-left: -10%;
+  }
+  .map {
+    margin-left: -10%;
+  }
+  .Contact .blank {
+    margin-left: 35%;
+    margin-top: 20px;
+  }
+  .Contact .geo img {
+    margin-right: 20%;
+  }
+}
+@media (max-width: 768px) {
+  .macbook {
+    height: 25vh;
+  }
+  .header a {
+    left: 36%;
+  }
+  .features .column {
+    flex-direction: column;
+  }
+  .column2 {
+    padding-left: 100px;
+  }
+  .features .column3 {
+    padding-left: 100px;
+  }
+  .features .column1 {
+    padding-left: 110px;
+  }
+  .features .play2 .video {
+    width: 70vw;
+  }
+  .Contact .geo img {
+    margin-right: 11%;
+  }
+}
+@media (max-width: 730px) {
+  .Contact .geo {
+    margin-left: 0;
+  }
+  .header .icon {
+    display: none;
+  }
+  .namber {
+    margin-right: 0;
+  }
+  .Contact .blank {
+    height: 60vh;
+  }
+  .Contact .blank .Your .message {
+    height: 20vh;
+  }
+  .Lightning .latter img {
+    width: 80%;
+    height: 50%;
+    margin-top: 80px;
+  }
+  .macbook {
+    height: 20vh;
+    width: 40vw;
+    margin-top: 50px;
+  }
+  .Partners .block3 {
+    margin-left: 110px;
+  }
+  .Contact .geo .namber {
+    flex-direction: column;
+  }
+  .Contact .geo .namber .show {
+    margin-right: 0;
+  }
+  .Contact .geo .namber p {
+    padding-right: 40px;
+  }
+  .Contact .geo img {
+    margin-right: 0;
+  }
+  .Contact .geo .namber p {
+    padding-right: 0;
+  }
+  .Contact .geo .namber .tel {
+    margin-right: 0;
+  }
+  .footer .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .footer .container .icons {
+    padding-right: 0;
+  }
+  .Pages {
+    display: none;
+  }
+  .footer {
+    padding-top: 100px;
+  }
+  .footer .container .icons {
+    margin-left: -20px;
+  }
+
+  .Contact .blank {
+    width: 300px;
+    height: 60vh;
+  }
+  .Contact .blank {
+    margin-left: 110px;
+  }
+  .Contact .blank .Your {
+    margin-left: 95px;
+  }
+  .Testimonials .ellipse {
+    margin-left: 38%;
+  }
+  .features .play2 .play {
+    top: calc(50% - 160px);
+  }
+  .features .play2 .play {
+    left: calc(50% - 70px);
+  }
+}
+@media (max-width: 576px) {
+  .header h1 {
+    font-size: 55px;
+  }
+  .header a {
+    left: 31%;
+  }
+  .features .play2 .video {
+    width: 65vw;
+  }
+  .features .play2 .play {
+    top: calc(50% - 155px);
+    left: calc(50% - 75px);
+  }
+  .Lightning .latter,
+  .fastest .all_way {
+    flex-direction: column;
+  }
+  .macbook {
+    width: 60vw;
+    margin-left: 20%;
+  }
+  .fastest .all_way .way {
+    margin-left: 15%;
+  }
+  .fastest .all_way .way h1 {
+    margin-right: 12%;
+    text-align: center;
+  }
+  .fastest .all_way .way a {
+    margin-left: 20%;
+  }
+  .Lightning .latter h1 {
+    margin-left: 30%;
+  }
+  .Lightning .latter h2 {
+    margin-left: 20%;
+  }
+  .Lightning .latter h3 {
+    margin-left: 20%;
+  }
+  .Lightning .latter p {
+    margin-left: 20%;
+  }
+  .Lightning .latter .sub {
+    justify-content: center;
+    margin-right: 15%;
+  }
+  .Partners .block2 {
+    display: none;
+  }
+  .Partners .block1 .Uber {
+    display: none;
+  }
+  .Partners .block1 {
+    flex-direction: column;
+    margin-right: 50px;
+    margin-left: -50px;
+  }
+  .Partners .block1 .google {
+    width: 80%;
+    height: 20vh;
+  }
+  .Partners .block1 p {
+    margin-top: 20%;
+    font-size: 16px;
+  }
+  .Partners .block1 .google img {
+    width: 20vw;
+  }
+  .Partners .block1 .amazon {
+    width: 80%;
+    height: 20vh;
+  }
+  .Partners .block1 p {
+    margin-top: 20%;
+    font-size: 16px;
+  }
+  .Partners .block1 .amazon img {
+    width: 20vw;
+  }
+  .Partners .block1 .microsoft {
+    width: 80%;
+    height: 20vh;
+    margin-bottom: 40px;
+  }
+  .Partners .block1 p {
+    margin-top: 20%;
+    font-size: 16px;
+  }
+  .Partners .block1 .microsoft img {
+    width: 30vw;
+  }
+  .Partners .block1 {
+    padding-top: 40px;
+  }
+  .Contact .blank {
+    width: 300px;
+    height: 60vh;
+  }
+
+  .macbook {
+    width: 60vw;
+    height: 30vh;
+  }
+  .Contact .blank .Your {
+    margin-left: 95px;
+  }
+  .map {
+    margin-right: 20;
+    width: 70%;
+  }
+  .Contact .icon2 {
+    margin-left: 35%;
+  }
+
+  .Contact .geo img {
+    margin-right: 0;
+  }
+  .Contact .geo .namber p {
+    padding-right: 0;
+  }
+  .Contact .geo .namber .tel {
+    margin-right: 0;
+  }
+  .Partners .block3 {
+    margin-left: 170px;
+  }
+}
+@media (max-width: 570px) {
+  .header .navbar {
+    display: none;
+  }
+  .header h1 {
+    font-size: 45px;
+  }
+  .header p {
+    font-size: 26px;
+  }
+  .top .openMenuBtn {
+    display: block;
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 60px;
+  }
+  .header .top .figma {
+    margin-left: 50px;
+  }
+}
+@media (max-width: 530px) {
+  .Contact .blank {
+    margin-left: 90px;
+  }
+}
+@media (max-width: 500px) {
+  .header a {
+    left: 25%;
+  }
+  .macbook {
+    width: 60vw;
+    height: 20vh;
+  }
+  .features .play2 .video {
+    width: 80vw;
+    margin-left: -60px;
+  }
+  .Pricing .cost .unit1,
+  .Pricing .cost .unit2,
+  .Pricing .cost .unit3 {
+    width: 50vw;
+    margin-left: -30px;
+  }
+  .Testimonials .ellipse {
+    margin-left: 33%;
+  }
+}
+@media (max-width: 450px) {
+  .fastest .all_way .way p {
+    margin-left: -30px;
+  }
+  .fastest .all_way .way a {
+    margin-left: 16%;
+  }
+  .Lightning .latter .sub {
+    margin-right: 0;
+  }
+  .Contact .blank {
+    margin-left: 60px;
+  }
+}
+@media (max-width: 415px) {
+  .Contact .blank {
+    margin-left: 40px;
+    height: 200px;
+  }
+  .Contact .p2 {
+    font-size: 22px;
+  }
+  .Contact p {
+    font-size: 34px;
+  }
+  .Pricing .cost .unit3 .zero h2 {
+    font-size: 60px;
+
+    margin-left: -30px;
+  }
+  .Pricing .cost .unit1 .zero h2 {
+    font-size: 60px;
+
+    margin-left: -30px;
+  }
+  .Pricing .cost .unit2 .zero h2 {
+    font-size: 60px;
+
+    margin-left: -30px;
+  }
+  .Contact .blank .Your .message {
+    width: 30vw;
+    margin-left: -10px;
+  }
+  .Contact .blank .Your .input2,
+  .Contact .blank .Your .input3 {
+    width: 20vw;
+  }
+  .footer .container .icons {
+    padding-right: 0;
+    margin-left: -20px;
+  }
+}
+@media (max-width: 390px) {
+  .Testimonials .ellipse {
+    margin-left: 28%;
+    margin-top: 70px;
+  }
+  .header a {
+    left: 15%;
+  }
+
+  .Testimonials .ellipse {
+    margin-left: 28%;
+    margin-top: 70px;
+    margin-bottom: 40px;
+  }
+
+  .Lightning .latter,
+  .fastest .all_way {
+    margin-left: -40px;
+  }
+  .Lightning .latter h2 {
+    font-size: 40px;
+  }
+  .Partners h1 {
+    font-size: 40px;
+  }
+  .Partners .block1 .google {
+    height: 15vh;
+    margin-bottom: 20px;
+  }
+  .Partners .block1 .amazon {
+    height: 15vh;
+    margin-bottom: 20px;
+  }
+  .Partners .block1 .microsoft {
+    height: 15vh;
+  }
+  .Partners .block1 .amazon,
+  .Partners .block1 .google,
+  .Partners .block1 .microsoft {
+    width: 60vw;
+    margin-left: -40px;
+    margin-bottom: 20px;
+  }
+
+  .Testimonials {
+    padding-top: 100px;
+  }
+  .Partners .block3 {
+    margin-bottom: 40px;
+  }
+  .Pricing .cost .unit1 a,
+  .Pricing .cost .unit2 a,
+  .Pricing .cost .unit3 a {
+    padding: 18px 30px;
+  }
+  .features .column1 {
+    padding-left: 110px;
+    margin-right: -20px;
+    margin-left: -30px;
+  }
+  .features .column2 {
+    margin-right: -20px;
+    margin-left: -30px;
+  }
+  .features .column3 {
+    margin-right: -20px;
+    margin-left: -30px;
+  }
+  .features .column1,
+  .features .column2,
+  .features .column3 {
+    margin-right: -20px;
+    margin-left: -30px;
+    margin-bottom: -50px;
+  }
+  .fastest .all_way .way p {
+    font-size: 25px;
+    margin-left: 5px;
+  }
+  .fastest .all_way .way h1 {
+    margin-top: -30px;
+  }
+  .macbook {
+    width: 75vw;
+  }
+  .Partners p {
+    font-size: 25px;
+  }
+  .Testimonials p {
+    font-size: 25px;
+    padding-bottom: 0;
+    margin-bottom: -30px;
+  }
+  .Contact .blank {
+    margin-left: 20px;
+  }
+  .Pricing p {
+    font-size: 25px;
+  }
+  .Lightning .latter .sub .input {
+    width: 30vw;
+  }
+  .Lightning .latter a {
+    padding: 19px 15px;
+  }
+  .Lightning .latter .sub {
+    flex-direction: column;
+  }
+  .features .play2 .play {
+    top: calc(50% - 145px);
+    left: calc(50% - 65px);
+  }
+  .figma {
+    margin-left: 20px;
+  }
+  .header h1 {
+    font-size: 35px;
+  }
+  .header p {
+    font-size: 24px;
+  }
+  .features h1 {
+    font-size: 35px;
+  }
+  .features p {
+    font-size: 25px;
+  }
+  .fastest .all_way .way h1 {
+    font-size: 35px;
+  }
+  .Lightning .latter a {
+    margin-left: 60px;
+    margin-right: 20px;
+    text-align: center;
+  }
+  .Lightning .latter .sub .input {
+    padding-right: 50px;
+    padding-left: 95px;
+    height: 50px;
+    margin-left: 18%;
+    margin-bottom: 30px;
+    margin-top: 20px;
+  }
+  .Partners .block1 p {
+    margin-top: 10%;
+    font-size: 16px;
+  }
+  .Lightning .latter img {
+    margin-top: -100px;
+  }
+}
+@media (max-width: 420px) {
+  .Pricing .cost .unit1,
+  .Pricing .cost .unit2,
+  .Pricing .cost .unit3 {
+    width: 60vw;
+    height: 500px;
+    margin-left: -30px;
+  }
+  .Pricing .cost {
+    margin-left: 27%;
+  }
+  .Contact .blank {
+    margin-left: 50px;
+    height: 70vh;
+  }
+  .Lightning .latter .sub .input {
+    padding-right: 70px;
+    
+  }
+  .features .play2 .play {
+    top: calc(50% - 140px);
+    left: calc(50% - 55px);
+}
+  .Contact .blank a {
+    margin-right: 20px;
+  }
+  .Partners .block3 {
+    margin-left: 150px;
+  }
+}
+@media (max-width: 330px) {
+  .Contact .blank {
+    margin-left: 0;
+    height: 75vh;
+  }
+}
